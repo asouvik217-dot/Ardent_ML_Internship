@@ -154,3 +154,4 @@ Created as a machine learning classification demonstration project.
 ---
 
 **Note**: The high accuracy achieved (98.25%) demonstrates that machine learning can be a powerful tool in assisting medical professionals with diagnosis, though it should always be used as a supplementary tool alongside expert medical judgment.
+![Screenshot_20-1-2026_13743_localhost](https://github.com/user-attachments/assets/4beb5fff-00ea-47b6-92b4-bacedc819ca0)
